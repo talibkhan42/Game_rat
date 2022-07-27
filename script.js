@@ -22,6 +22,9 @@ var sound5= document.getElementById("sound5");
 
 
 
+alert("do you want to play");
+
+
 setInterval(function () {
   // ye random number genrate krega any 1 to 6
   var random = Math.floor(Math.random() * 6) + 1;
