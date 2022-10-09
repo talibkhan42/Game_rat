@@ -22,7 +22,7 @@ var sound5= document.getElementById("sound5");
 
 
 
-alert("do you want to play");
+alert("please press ok for play game");
 
 
 setInterval(function () {
